@@ -40,7 +40,7 @@ header nav ul li a {
 }
 
 .hero {
-    background-image: url('images/skyblue.jpg');
+    background-image: url('skyblue.jpg');
     text-align: center;
     padding: 60px 20px;
 }
@@ -104,13 +104,13 @@ header nav ul li a {
 }
 
 .image-with-text{
-    background-image: url('images/accelerate_img.jpg');
+    background-image: url('accelerate_img.jpg');
     justify-content: right;
 }
 
 .image-with-text2{
     padding-left: 40px;
-    background-image: url('images/bg-how-does-office365-mailbox-work.jpg');
+    background-image: url('bg-how-does-office365-mailbox-work.jpg');
     background-position: 100%;
     justify-content: left;
     align-items: center;
